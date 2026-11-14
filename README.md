@@ -1,16 +1,8 @@
 # Hi there, I'm Osama Shakeel 👋
 
-**Founder & Owner @ [CloudLift Tech](https://cloudlifttech.com)** · MSc Web Engineering @ TU Chemnitz, Germany
+MSc Web Engineering @ TU Chemnitz, Germany
 
 I run an IT services company and I'm currently going deep on **cloud & DevOps** — building the infrastructure skills behind reliable software delivery.
-
-## What I'm focused on right now
-
-- 🐳 **Docker** — containerizing applications, multi-stage builds, Compose
-- ☸️ **Kubernetes** — deployments, services, config management
-- 🏗️ **Terraform** — infrastructure as code
-- ⚙️ **CI/CD** — GitHub Actions pipelines: lint, test, build, deploy
-- ☁️ **AWS** — core services, networking fundamentals
 
 Follow along in my hands-on lab: [cloud-devops-lab](https://github.com/iosamashakeel/cloud-devops-lab) · and my practical PM templates: [pm-toolkit](https://github.com/iosamashakeel/pm-toolkit)
 
